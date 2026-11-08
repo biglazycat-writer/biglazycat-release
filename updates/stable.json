@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "version": "0.4.0",
+  "channel": "stable",
+  "name": "大懒猫创作平台 0.4.0",
+  "notes": "大懒猫创作平台 0.4.0\n\n- 新增收藏功能：点击作品卡片上的星标即可收藏，收藏页面集中查看，暂无收藏时有引导提示。\n- 新增置顶功能：置顶的文件或文件夹排在未置顶条目前，组内保留原有排序，可随时取消置顶。\n- 收藏与置顶保存在工作区内，通过现有的 Git、WebDAV 或 S3 同步自动同步到其他设备。\n- 作品改名或移动时收藏与置顶标记自动跟随；删除作品时对应标记自动清除。\n- 更新优先使用 GitHub，失败时自动切换 Gitee；更新包经 SHA-256 与 Ed25519 签名验证。\n",
+  "publishedAt": "2026-11-08T13:16:45.9231154Z",
+  "artifacts": [
+    {
+      "platform": "windows",
+      "arch": "amd64",
+      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.0/biglazycat-desktop-0.4.0-windows-amd64-update.zip.001",
+      "filename": "biglazycat-desktop-0.4.0-windows-amd64-update.zip",
+      "size": 111967219,
+      "digestAlgo": "sha256",
+      "digest": "+TIKBz+PVnbbndQ2/JjGrOB7i3bjPU1JOgIi+YMo+eg=",
+      "signatureAlgo": "ed25519",
+      "signature": "wStgXzAZZyK11kkoWm34DyIx2qEIfabdgOTEzARysM6wTeoqJcW+3mirBj3zz9v9NERB+jpzCSGBzvk2sU5LAQ=="
+    }
+  ],
+  "metadata": {
+    "parts": [
+      {
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.0/biglazycat-desktop-0.4.0-windows-amd64-update.zip.001",
+        "size": 67108864
+      },
+      {
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.0/biglazycat-desktop-0.4.0-windows-amd64-update.zip.002",
+        "size": 44858355
+      }
+    ]
+  }
+}
