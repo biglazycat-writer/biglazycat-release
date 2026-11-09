@@ -1,0 +1,9 @@
+Noto Serif SC (NotoSerifSC_400Regular.ttf, NotoSerifSC_700Bold.ttf)
+Copyright 2017 The Noto Project Authors (https://github.com/notofonts/noto-cjk)
+Licensed under the SIL Open Font License, Version 1.1.
+
+typst_ts_web_compiler_bg.wasm
+Built from @myriaddreamin/typst-ts-web-compiler 0.7.0. Typst is Apache-2.0.
+
+pdfium.wasm
+Built from @embedpdf/pdfium 2.15.1. PDFium is BSD-3-Clause.

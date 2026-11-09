@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "githubBase": "https://raw.githubusercontent.com/biglazycat-writer/biglazycat-release/main/resources",
+  "giteeBase": "https://gitee.com/biglazycatwriter/blc-release/raw/master/resources",
+  "engines": {
+    "typst": "0.7.0",
+    "pdfium": "2.15.1"
+  },
+  "sets": [
+    {
+      "id": "typesetting",
+      "path": "typesetting",
+      "files": [
+        {
+          "name": "NotoSerifSC_400Regular.ttf",
+          "size": 14807636,
+          "sha256": "c358a69de3df5f423a8946a7b03e3126fb6ba116f1130a463455b4e39e1f0742"
+        },
+        {
+          "name": "NotoSerifSC_700Bold.ttf",
+          "size": 14806580,
+          "sha256": "9c6a2ba736e4b499c84f65ce366bd3625c0401885fd3e585ace50fb738b96ff6"
+        },
+        {
+          "name": "typst_ts_web_compiler_bg.wasm",
+          "size": 28325178,
+          "sha256": "1fc968438a672366dfec39c96c842c26ed29caff4eb1bcaab19a6c60867de5fd"
+        },
+        {
+          "name": "pdfium.wasm",
+          "size": 4646932,
+          "sha256": "5e4cd023c3dad4a895b3571ca573d3fc51bac6de48360d95283134385b954eaa"
+        },
+        {
+          "name": "NOTICE.txt",
+          "size": 383,
+          "sha256": "6cdb0419b74eea8251b24edf8f83d0f0db2b6273b7e2dd7b1c6f7d6896fc46f8"
+        }
+      ]
+    },
+    {
+      "id": "ocr",
+      "path": "ocr-models",
+      "files": [
+        {
+          "name": "PP-OCRv6_det_small.onnx",
+          "size": 9929594,
+          "sha256": "090f04abcd9d9a7498bc4ebf677e4cb9bdce1fe4197ddb7e529f1ef44e1ff94f"
+        },
+        {
+          "name": "PP-OCRv6_rec_small.onnx",
+          "size": 21234383,
+          "sha256": "6f327246b50388f3c176ae304bd95767ea6dc0c9ae92153ef8cbe210b3c14884"
+        },
+        {
+          "name": "rec_keys.txt",
+          "size": 93655,
+          "sha256": "769e7fa79bb297b5f18d8dbd149e364a45bc61f2b3f574e5ea836f0b261c23a6"
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "path": "bergamot-models",
+      "files": [
+        {
+          "name": "registry.json",
+          "size": 1251,
+          "sha256": "08d837770e66f18d03d286ee3ea65bd9fa11152b7a7b6ec69756de90235d02d8"
+        },
+        {
+          "name": "enzh.model.enzh.intgemm.alphas.bin",
+          "size": 43849787,
+          "sha256": "4e5accc141373565ddc8fa1565bceaa8d0c3482a82cab8131c719ebcc6c2157c"
+        },
+        {
+          "name": "enzh.lex.50.50.enzh.s2t.bin",
+          "size": 4485184,
+          "sha256": "8575d8daa10e2dbff316dcdf8e1ce475357bcc2c92bdc63b736a2d5add22f681"
+        },
+        {
+          "name": "enzh.srcvocab.enzh.spm",
+          "size": 806952,
+          "sha256": "bd9b65504acc6d9726dd281f7defc2adb7c2c22d0688fe2f84697de25197c8c5"
+        },
+        {
+          "name": "enzh.trgvocab.enzh.spm",
+          "size": 772004,
+          "sha256": "aded6993c36e440284d11cec3f6b8aef9c0e43188a772d80be342a713adf223d"
+        },
+        {
+          "name": "zhen.model.zhen.intgemm.alphas.bin",
+          "size": 59504955,
+          "sha256": "3535442962ec8f4a553cc19b206befcac689ee9cddaea44fa91e21527fc30ac2"
+        },
+        {
+          "name": "zhen.lex.50.50.zhen.s2t.bin",
+          "size": 9220016,
+          "sha256": "cdcad3592dc2bc4676c34c4d37203f7649ee989195cf083cbb60f1ea011f976b"
+        },
+        {
+          "name": "zhen.vocab.zhen.spm",
+          "size": 1359697,
+          "sha256": "dff594318ab7d8b7b60b844ab98ebe6b932ae8045fab15235404c787715965b3"
+        }
+      ]
+    }
+  ]
+}
