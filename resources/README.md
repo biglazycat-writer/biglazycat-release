@@ -14,4 +14,6 @@ GitHub 根地址：https://raw.githubusercontent.com/biglazycat-writer/biglazyca
 
 Gitee 根地址：https://gitee.com/biglazycatwriter/blc-release/raw/master/resources/
 
-同一相对路径两边都有。GitHub 不可用时改用 Gitee。
+同一相对路径两边都有。GitHub 的 raw 地址可以直接下载。Gitee 上大于等于 10MB 的文件，raw 地址会要求登录，匿名下载用发布标签 `resources` 里的同名附件：https://gitee.com/biglazycatwriter/blc-release/releases/download/resources/文件名
+
+GitHub 不可用时改用 Gitee。

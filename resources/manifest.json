@@ -2,6 +2,7 @@
   "version": 1,
   "githubBase": "https://raw.githubusercontent.com/biglazycat-writer/biglazycat-release/main/resources",
   "giteeBase": "https://gitee.com/biglazycatwriter/blc-release/raw/master/resources",
+  "giteeRelease": "https://gitee.com/biglazycatwriter/blc-release/releases/download/resources",
   "engines": {
     "typst": "0.7.0",
     "pdfium": "2.15.1"
