@@ -1,32 +1,32 @@
 {
   "schemaVersion": 1,
-  "version": "0.4.1",
+  "version": "0.4.2",
   "channel": "stable",
-  "name": "大懒猫创作平台 0.4.1",
-  "notes": "大懒猫创作平台 0.4.1\n\n- 优化界面布局：调整创作区目录、移动作品对话框和设置页的排版与间距，窄窗口下的信息层级更清晰。\n- 修复同步问题：修正工作区文件扫描与同步范围判定，解决部分文件在多端 Git / WebDAV / S3 同步中被遗漏或重复处理的问题。\n",
-  "publishedAt": "2026-11-09T23:53:02.2422418Z",
+  "name": "大懒猫创作平台 0.4.2",
+  "notes": "大懒猫创作平台 0.4.2\r\n\r\n- 安装页进度条在解压期间保持动画，窗口不再被标成未响应，也不再浮到其他软件上面。\r\n- Windows 同时提供安装版和免安装版；Linux 同时提供 deb 与 AppImage；macOS 按 Apple 芯片和 Intel 分开下载。\r\n- 各平台安装包控制在 100MB 以内，便于从 GitHub 与 Gitee 直接下载。\r\n",
+  "publishedAt": "2026-11-10T01:48:40.384633Z",
   "artifacts": [
     {
       "platform": "linux",
       "arch": "amd64",
-      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.1/biglazycat-desktop-0.4.1-x86_64.AppImage.001",
-      "filename": "biglazycat-desktop-0.4.1-x86_64.AppImage",
-      "size": 113555960,
+      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.2/biglazycat-desktop-0.4.2-x86_64.AppImage.001",
+      "filename": "biglazycat-desktop-0.4.2-x86_64.AppImage",
+      "size": 95750648,
       "digestAlgo": "sha256",
-      "digest": "mr7goCVjZhV+f3uowxcEDHNtagyY34GkfXOkXRhdGGQ=",
+      "digest": "5zDjzlWQLl8btJYFslIncZXilAhnR/uXpWuM5kyY5LM=",
       "signatureAlgo": "ed25519",
-      "signature": "JgV1bJ1RMgTnPzHy8/V8osKa7lyShDp1H8QHgtp7Exv+s2h1MqXXrVAEQ/4VMkX/D2qpd2Xy3NkLF//fhrpiAA=="
+      "signature": "avhgRunQDvhps2H5ehBlq82te1D9LXNl+nx68l+Iu8n9CwgkfgT0WyS8KAcxSR2EMB6Xqdaxzr+VRtYiLM27Bg=="
     }
   ],
   "metadata": {
     "parts": [
       {
-        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.1/biglazycat-desktop-0.4.1-x86_64.AppImage.001",
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.2/biglazycat-desktop-0.4.2-x86_64.AppImage.001",
         "size": 67108864
       },
       {
-        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.1/biglazycat-desktop-0.4.1-x86_64.AppImage.002",
-        "size": 46447096
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.2/biglazycat-desktop-0.4.2-x86_64.AppImage.002",
+        "size": 28641784
       }
     ]
   }
