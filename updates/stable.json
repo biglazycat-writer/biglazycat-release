@@ -4,25 +4,25 @@
   "channel": "stable",
   "name": "大懒猫创作平台 0.4.1",
   "notes": "大懒猫创作平台 0.4.1\n\n- 优化界面布局：调整创作区目录、移动作品对话框和设置页的排版与间距，窄窗口下的信息层级更清晰。\n- 修复同步问题：修正工作区文件扫描与同步范围判定，解决部分文件在多端 Git / WebDAV / S3 同步中被遗漏或重复处理的问题。\n",
-  "publishedAt": "2026-11-10T00:11:33.7954656Z",
+  "publishedAt": "2026-11-10T00:34:06.5506658Z",
   "artifacts": [
     {
       "platform": "windows",
       "arch": "amd64",
       "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.1/biglazycat-desktop-0.4.1-windows-amd64-update.zip.001",
       "filename": "biglazycat-desktop-0.4.1-windows-amd64-update.zip",
-      "size": 40092729,
+      "size": 40087325,
       "digestAlgo": "sha256",
-      "digest": "h41cWTfe8Xk9QstvoarwJfubrXzAvXPj3c+aVfSvKzw=",
+      "digest": "UTBNquFjmpnyUqeoXGhtRUkzckaFlQNpiCm0Cvk0C/w=",
       "signatureAlgo": "ed25519",
-      "signature": "MeTkIUMrA/Dq5AT8EGl2eudKh7WhFcIkTAWWTvdHuzPmHtQ9gPMqgL8ZalEvU335pTJAAERhXyH6fR3zH9SgDA=="
+      "signature": "Egs2Ep+pFqCS/tgiY0CK3n3XPsQnyWe9JbLtzGWTsIGjjTFLvKoFvEE4+dI12eQJhmq2BcPRLeyKNCKSs1S+Dw=="
     }
   ],
   "metadata": {
     "parts": [
       {
         "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.1/biglazycat-desktop-0.4.1-windows-amd64-update.zip.001",
-        "size": 40092729
+        "size": 40087325
       }
     ]
   }
