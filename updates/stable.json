@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "version": "0.4.3",
+  "version": "0.4.4",
   "channel": "stable",
-  "name": "大懒猫创作平台 0.4.3",
-  "notes": "1. 新增AI支持发送图片\n2. 优化内置AI的在线检索能力\n3. 新增AI @功能\n",
-  "publishedAt": "2026-11-11T09:36:54.4914364Z",
+  "name": "大懒猫创作平台 0.4.4",
+  "notes": "优化界面UI，新增多项功能",
+  "publishedAt": "2026-11-12T02:01:11.3717069Z",
   "artifacts": [
     {
       "platform": "windows",
       "arch": "amd64",
-      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.3/biglazycat-desktop-0.4.3-windows-amd64-update.zip.001",
-      "filename": "biglazycat-desktop-0.4.3-windows-amd64-update.zip",
-      "size": 40440496,
+      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.4/biglazycat-desktop-0.4.4-windows-amd64-update.zip.001",
+      "filename": "biglazycat-desktop-0.4.4-windows-amd64-update.zip",
+      "size": 40486950,
       "digestAlgo": "sha256",
-      "digest": "pOlwKaQopULq6JXXsPrQQcTI3QPG5ZBTHPqigzj1AaM=",
+      "digest": "7PsjC7Ro0GGhtvH69VN5uDiVkLaVG+FlrdTp+ljVrS4=",
       "signatureAlgo": "ed25519",
-      "signature": "XUvYbwZwVIaBtfuH6Qz/J9EcW6h+wU4aawcumHbo22CWKfcw4PN2Oh0EdxjfW8spa7BPCgE5wvH5QgkZzaqgDQ=="
+      "signature": "KoiQYPD1qm7zhBG6jkUlm4kHvCWcykbH67600dBAPNCld39b9m83m2CuyKKen6BcKpzpx+PPukTEtOGEcGjHDA=="
     }
   ],
   "metadata": {
     "parts": [
       {
-        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.3/biglazycat-desktop-0.4.3-windows-amd64-update.zip.001",
-        "size": 40440496
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.4/biglazycat-desktop-0.4.4-windows-amd64-update.zip.001",
+        "size": 40486950
       }
     ]
   }
