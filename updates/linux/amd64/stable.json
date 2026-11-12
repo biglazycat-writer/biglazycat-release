@@ -1,32 +1,32 @@
 {
   "schemaVersion": 1,
-  "version": "0.4.3",
+  "version": "0.4.4",
   "channel": "stable",
-  "name": "大懒猫创作平台 0.4.3",
-  "notes": "1. 新增AI支持发送图片\n2. 优化内置AI的在线检索能力\n3. 新增AI @功能\n",
-  "publishedAt": "2026-11-11T09:36:59.7998143Z",
+  "name": "大懒猫创作平台 0.4.4",
+  "notes": "优化界面UI，新增多项功能",
+  "publishedAt": "2026-11-12T02:01:16.7002442Z",
   "artifacts": [
     {
       "platform": "linux",
       "arch": "amd64",
-      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.3/biglazycat-desktop-0.4.3-x86_64.AppImage.001",
-      "filename": "biglazycat-desktop-0.4.3-x86_64.AppImage",
-      "size": 96139768,
+      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.4/biglazycat-desktop-0.4.4-x86_64.AppImage.001",
+      "filename": "biglazycat-desktop-0.4.4-x86_64.AppImage",
+      "size": 96131576,
       "digestAlgo": "sha256",
-      "digest": "GK16gIOG9wL3pQ+c7EZNcuwFri1+9FNbRBNEuqMHUuE=",
+      "digest": "/N/O1Ky46DVHorb4M4buWdv1u/cCgnIU2fzIHHctNUg=",
       "signatureAlgo": "ed25519",
-      "signature": "gHVGu3ulIvHBYOxisCBjjv8hfebINSdnQfowIlTVba7GvkjRSu2rYjxM0HXuFpz0vy71NbGQhgAwTXjubyO/AA=="
+      "signature": "xvQlS7Fwx2qI+xTjSYmLQVhsYzUQu5AmX8FaXzMuvi8bCtCQ+p/nehS3oNjixa+fH+SpDph/xQh1h4zakYqSBg=="
     }
   ],
   "metadata": {
     "parts": [
       {
-        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.3/biglazycat-desktop-0.4.3-x86_64.AppImage.001",
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.4/biglazycat-desktop-0.4.4-x86_64.AppImage.001",
         "size": 67108864
       },
       {
-        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.3/biglazycat-desktop-0.4.3-x86_64.AppImage.002",
-        "size": 29030904
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.4/biglazycat-desktop-0.4.4-x86_64.AppImage.002",
+        "size": 29022712
       }
     ]
   }
