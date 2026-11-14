@@ -1,32 +1,32 @@
 {
   "schemaVersion": 1,
-  "version": "0.4.4",
+  "version": "0.4.5",
   "channel": "stable",
-  "name": "大懒猫创作平台 0.4.4",
-  "notes": "优化界面UI，新增多项功能",
-  "publishedAt": "2026-11-12T02:01:28.3722944Z",
+  "name": "大懒猫创作平台 0.4.5",
+  "notes": "大懒猫创作平台 0.4.5\n\n- 新增插件机制。\n- 排版导出与微信公众号发布独立成插件。\n",
+  "publishedAt": "2026-11-14T18:21:11.387445Z",
   "artifacts": [
     {
       "platform": "darwin",
       "arch": "",
-      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.4/biglazycat-desktop-0.4.4-macos-universal-update.zip.001",
-      "filename": "biglazycat-desktop-0.4.4-macos-universal-update.zip",
-      "size": 80685644,
+      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.5/biglazycat-desktop-0.4.5-macos-universal-update.zip.001",
+      "filename": "biglazycat-desktop-0.4.5-macos-universal-update.zip",
+      "size": 87290228,
       "digestAlgo": "sha256",
-      "digest": "h1jJdeW3YFHXtwKzdNSfYnkyf3AJSMklcDOXU/TOxIM=",
+      "digest": "4NAsV5cF8awk55niyV/rcmELyUf+3VyOllRWv6E9hLw=",
       "signatureAlgo": "ed25519",
-      "signature": "nNrbRlPXo2mm1qygpMvFpwd0yybPXe5lpJq7K20HZtuwzJyw7H57DPKGwDgROrVSrNqYGI2uyLW+zl+8SYsDDA=="
+      "signature": "Qx06XwQ1f97QDi+FHPPHPPgdMTqYn29du+QL9Qi5VGE6Cv++N3O3Gj5iM+BvIOZLNnHQuyfAEV66UDPe+cWqBQ=="
     }
   ],
   "metadata": {
     "parts": [
       {
-        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.4/biglazycat-desktop-0.4.4-macos-universal-update.zip.001",
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.5/biglazycat-desktop-0.4.5-macos-universal-update.zip.001",
         "size": 67108864
       },
       {
-        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.4/biglazycat-desktop-0.4.4-macos-universal-update.zip.002",
-        "size": 13576780
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.5/biglazycat-desktop-0.4.5-macos-universal-update.zip.002",
+        "size": 20181364
       }
     ]
   }
