@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "version": "0.4.4",
+  "version": "0.4.5",
   "channel": "stable",
-  "name": "大懒猫创作平台 0.4.4",
-  "notes": "优化界面UI，新增多项功能",
-  "publishedAt": "2026-11-12T02:01:11.3717069Z",
+  "name": "大懒猫创作平台 0.4.5",
+  "notes": "大懒猫创作平台 0.4.5\n\n- 新增插件机制。\n- 排版导出与微信公众号发布独立成插件。\n",
+  "publishedAt": "2026-11-14T18:04:18.0460577Z",
   "artifacts": [
     {
       "platform": "windows",
       "arch": "amd64",
-      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.4/biglazycat-desktop-0.4.4-windows-amd64-update.zip.001",
-      "filename": "biglazycat-desktop-0.4.4-windows-amd64-update.zip",
-      "size": 40486950,
+      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.5/biglazycat-desktop-0.4.5-windows-amd64-update.zip.001",
+      "filename": "biglazycat-desktop-0.4.5-windows-amd64-update.zip",
+      "size": 43613403,
       "digestAlgo": "sha256",
-      "digest": "7PsjC7Ro0GGhtvH69VN5uDiVkLaVG+FlrdTp+ljVrS4=",
+      "digest": "T9JxOLQbA4ebc0tdE0Oc8vf4GRtNJVWWls2m5ZinPYA=",
       "signatureAlgo": "ed25519",
-      "signature": "KoiQYPD1qm7zhBG6jkUlm4kHvCWcykbH67600dBAPNCld39b9m83m2CuyKKen6BcKpzpx+PPukTEtOGEcGjHDA=="
+      "signature": "MkdJ82oDjFPyjupXvYIT4GTbu5QxSoBH5wIKEQTWaVQBN5dzG9vxQYp7qsQLMHV9L9rg+dDO6DVf8foPDw7ECw=="
     }
   ],
   "metadata": {
     "parts": [
       {
-        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.4/biglazycat-desktop-0.4.4-windows-amd64-update.zip.001",
-        "size": 40486950
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.5/biglazycat-desktop-0.4.5-windows-amd64-update.zip.001",
+        "size": 43613403
       }
     ]
   }
