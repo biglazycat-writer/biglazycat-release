@@ -6,4 +6,4 @@
 
 安装后可在「设置 → 关于」或托盘菜单中检查更新。GitHub 不可用时自动切换至 Gitee。Linux deb 版安装更新时会请求系统管理员授权。
 
-PDF 排版字体与 wasm、本地 OCR 模型、本地翻译模型在 `resources/` 目录，不随安装包分发。清单见 `resources/manifest.json`。
+排版导出由独立插件 blc-export-book 提供，所需字体与 wasm 随插件分发。PDF 翻译对照和框选识别使用用户配置的 AI 模型。
