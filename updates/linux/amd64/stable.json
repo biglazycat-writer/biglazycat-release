@@ -1,32 +1,32 @@
 {
   "schemaVersion": 1,
-  "version": "0.4.4",
+  "version": "0.4.5",
   "channel": "stable",
-  "name": "大懒猫创作平台 0.4.4",
-  "notes": "优化界面UI，新增多项功能",
-  "publishedAt": "2026-11-12T02:01:16.7002442Z",
+  "name": "大懒猫创作平台 0.4.5",
+  "notes": "大懒猫创作平台 0.4.5\n\n- 新增插件机制。\n- 排版导出与微信公众号发布独立成插件。\n",
+  "publishedAt": "2026-11-14T18:20:52.6662946Z",
   "artifacts": [
     {
       "platform": "linux",
       "arch": "amd64",
-      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.4/biglazycat-desktop-0.4.4-x86_64.AppImage.001",
-      "filename": "biglazycat-desktop-0.4.4-x86_64.AppImage",
-      "size": 96131576,
+      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.5/biglazycat-desktop-0.4.5-x86_64.AppImage.001",
+      "filename": "biglazycat-desktop-0.4.5-x86_64.AppImage",
+      "size": 108239352,
       "digestAlgo": "sha256",
-      "digest": "/N/O1Ky46DVHorb4M4buWdv1u/cCgnIU2fzIHHctNUg=",
+      "digest": "8QLEl0zqAljkzHU08u7R/hpe02F70l1MTDPm3v8JZeM=",
       "signatureAlgo": "ed25519",
-      "signature": "xvQlS7Fwx2qI+xTjSYmLQVhsYzUQu5AmX8FaXzMuvi8bCtCQ+p/nehS3oNjixa+fH+SpDph/xQh1h4zakYqSBg=="
+      "signature": "d3CNy/Pb0w65Wj61NWTgF4S7leskcowcuhxCGh6vL5lsL+GXTdhVILB0GMw54JEcNQEC3rPG67r3UOxdKzt1CQ=="
     }
   ],
   "metadata": {
     "parts": [
       {
-        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.4/biglazycat-desktop-0.4.4-x86_64.AppImage.001",
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.5/biglazycat-desktop-0.4.5-x86_64.AppImage.001",
         "size": 67108864
       },
       {
-        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.4/biglazycat-desktop-0.4.4-x86_64.AppImage.002",
-        "size": 29022712
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.5/biglazycat-desktop-0.4.5-x86_64.AppImage.002",
+        "size": 41130488
       }
     ]
   }
