@@ -4,7 +4,7 @@
   "channel": "stable",
   "name": "大懒猫创作平台 0.4.5",
   "notes": "大懒猫创作平台 0.4.5\n\n- 新增插件机制。\n- 排版导出与微信公众号发布独立成插件。\n",
-  "publishedAt": "2026-11-14T18:20:52.6662946Z",
+  "publishedAt": "2026-11-14T18:21:04.0014797Z",
   "artifacts": [
     {
       "platform": "linux",
