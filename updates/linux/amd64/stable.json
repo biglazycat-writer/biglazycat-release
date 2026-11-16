@@ -1,32 +1,32 @@
 {
   "schemaVersion": 1,
-  "version": "0.4.5",
+  "version": "0.4.6",
   "channel": "stable",
-  "name": "大懒猫创作平台 0.4.5",
-  "notes": "大懒猫创作平台 0.4.5\n\n- 新增插件机制。\n- 排版导出与微信公众号发布独立成插件。\n",
-  "publishedAt": "2026-11-14T18:21:04.0014797Z",
+  "name": "大懒猫创作平台 0.4.6",
+  "notes": "修复内部已知BUG跟修复界面UI问题",
+  "publishedAt": "2026-11-16T03:49:54.4887759Z",
   "artifacts": [
     {
       "platform": "linux",
       "arch": "amd64",
-      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.5/biglazycat-desktop-0.4.5-x86_64.AppImage.001",
-      "filename": "biglazycat-desktop-0.4.5-x86_64.AppImage",
-      "size": 108239352,
+      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.6/biglazycat-desktop-0.4.6-x86_64.AppImage.001",
+      "filename": "biglazycat-desktop-0.4.6-x86_64.AppImage",
+      "size": 108399096,
       "digestAlgo": "sha256",
-      "digest": "8QLEl0zqAljkzHU08u7R/hpe02F70l1MTDPm3v8JZeM=",
+      "digest": "XOpu9qhPgb6kRRrE44HOLG9ZWdQ5LMxmO8ugDVwWEi8=",
       "signatureAlgo": "ed25519",
-      "signature": "d3CNy/Pb0w65Wj61NWTgF4S7leskcowcuhxCGh6vL5lsL+GXTdhVILB0GMw54JEcNQEC3rPG67r3UOxdKzt1CQ=="
+      "signature": "DqMhpdd5pQ2InW0KncCabm28Ozvqsc0ipp5v+VTAmLieBNaM4tn3yi1yp3gpI22pDtBBynuhGBaJx6Zw+8ApAQ=="
     }
   ],
   "metadata": {
     "parts": [
       {
-        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.5/biglazycat-desktop-0.4.5-x86_64.AppImage.001",
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.6/biglazycat-desktop-0.4.6-x86_64.AppImage.001",
         "size": 67108864
       },
       {
-        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.5/biglazycat-desktop-0.4.5-x86_64.AppImage.002",
-        "size": 41130488
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.6/biglazycat-desktop-0.4.6-x86_64.AppImage.002",
+        "size": 41290232
       }
     ]
   }
