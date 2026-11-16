@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "version": "0.4.5",
+  "version": "0.4.6",
   "channel": "stable",
-  "name": "大懒猫创作平台 0.4.5",
-  "notes": "大懒猫创作平台 0.4.5\n\n- 新增插件机制。\n- 排版导出与微信公众号发布独立成插件。\n",
-  "publishedAt": "2026-11-14T18:21:07.3415879Z",
+  "name": "大懒猫创作平台 0.4.6",
+  "notes": "修复内部已知BUG跟修复界面UI问题",
+  "publishedAt": "2026-11-16T03:49:59.1678347Z",
   "artifacts": [
     {
       "platform": "linux",
       "arch": "amd64",
-      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.5/biglazycat-desktop_0.4.5_amd64.deb.001",
-      "filename": "biglazycat-desktop_0.4.5_amd64.deb",
-      "size": 44278988,
+      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.6/biglazycat-desktop_0.4.6_amd64.deb.001",
+      "filename": "biglazycat-desktop_0.4.6_amd64.deb",
+      "size": 44453938,
       "digestAlgo": "sha256",
-      "digest": "82pD2KOMc1kDU0IPoZddY8BpuIccKTRpkaapECzC1X4=",
+      "digest": "bwNgrjcK3TWDWHVM8b2el7gryUpJEYGzbeKkbL1Rg7s=",
       "signatureAlgo": "ed25519",
-      "signature": "spyyzbV7/1RZPzoMQP8X0foXBN5RfnqnELgUPiEGgnu7uIA/zAqtcNAeIjIUnRZDhYnpM8f2ue0VmO5EAOkKDQ=="
+      "signature": "oXZDa0b4iwqG8MbroYkyqaAu11Bu5z9AIu8UbSMJkmwJq5m3SAUvQtoK4RPp6Hp+weK8B33EgXG1TwiVk5xqBw=="
     }
   ],
   "metadata": {
     "parts": [
       {
-        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.5/biglazycat-desktop_0.4.5_amd64.deb.001",
-        "size": 44278988
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.6/biglazycat-desktop_0.4.6_amd64.deb.001",
+        "size": 44453938
       }
     ],
     "packageType": "deb"
