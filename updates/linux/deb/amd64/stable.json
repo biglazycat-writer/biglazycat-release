@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "version": "0.4.6",
+  "version": "0.4.9",
   "channel": "stable",
-  "name": "大懒猫创作平台 0.4.6",
-  "notes": "修复内部已知BUG跟修复界面UI问题",
-  "publishedAt": "2026-11-16T03:49:59.1678347Z",
+  "name": "大懒猫创作平台 0.4.9",
+  "notes": "大懒猫创作平台 0.4.9\n\n- 新增待办：收集箱、本周、今天三段式清单，支持步骤、备注、截止日期、提醒、重复与优先级。\n- 待办与文稿互通：文章信息可关联任务，编辑器选中文字可直接转为待办，番茄钟可对任务开始专注。\n- 快速添加支持「明天」「周三」「!!」「#标签」写法，任务行可拖拽排序。\n- 新增语音工坊插件：用本机引擎朗读文章，支持多音色与文章转播客。\n- 新增本地 OCR 与翻译插件：识别图片与 PDF 文字，保留段落位置并支持中英翻译。\n- 移动端新增底部导航与待办页，支持到点提醒与批量操作。\n",
+  "publishedAt": "2026-11-21T01:57:11.1373194Z",
   "artifacts": [
     {
       "platform": "linux",
       "arch": "amd64",
-      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.6/biglazycat-desktop_0.4.6_amd64.deb.001",
-      "filename": "biglazycat-desktop_0.4.6_amd64.deb",
-      "size": 44453938,
+      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.9/biglazycat-desktop_0.4.9_amd64.deb.001",
+      "filename": "biglazycat-desktop_0.4.9_amd64.deb",
+      "size": 44908538,
       "digestAlgo": "sha256",
-      "digest": "bwNgrjcK3TWDWHVM8b2el7gryUpJEYGzbeKkbL1Rg7s=",
+      "digest": "+n/k1XUt5vopbjU/eGdBojCVvYm1fJ2iMs3c30rRUoI=",
       "signatureAlgo": "ed25519",
-      "signature": "oXZDa0b4iwqG8MbroYkyqaAu11Bu5z9AIu8UbSMJkmwJq5m3SAUvQtoK4RPp6Hp+weK8B33EgXG1TwiVk5xqBw=="
+      "signature": "F+kkHA5omWHVcOrl/Kww+69wR0GKTZGV2q+0vm1js0rq3eric8Vyad7CaBDFweDhXWNLd/wXJCIN5pLPKLjDCA=="
     }
   ],
   "metadata": {
     "parts": [
       {
-        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.6/biglazycat-desktop_0.4.6_amd64.deb.001",
-        "size": 44453938
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.9/biglazycat-desktop_0.4.9_amd64.deb.001",
+        "size": 44908538
       }
     ],
     "packageType": "deb"
