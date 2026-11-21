@@ -1,32 +1,32 @@
 {
   "schemaVersion": 1,
-  "version": "0.4.6",
+  "version": "0.4.9",
   "channel": "stable",
-  "name": "大懒猫创作平台 0.4.6",
-  "notes": "修复内部已知BUG跟修复界面UI问题",
-  "publishedAt": "2026-11-16T03:50:04.7892795Z",
+  "name": "大懒猫创作平台 0.4.9",
+  "notes": "大懒猫创作平台 0.4.9\n\n- 新增待办：收集箱、本周、今天三段式清单，支持步骤、备注、截止日期、提醒、重复与优先级。\n- 待办与文稿互通：文章信息可关联任务，编辑器选中文字可直接转为待办，番茄钟可对任务开始专注。\n- 快速添加支持「明天」「周三」「!!」「#标签」写法，任务行可拖拽排序。\n- 新增语音工坊插件：用本机引擎朗读文章，支持多音色与文章转播客。\n- 新增本地 OCR 与翻译插件：识别图片与 PDF 文字，保留段落位置并支持中英翻译。\n- 移动端新增底部导航与待办页，支持到点提醒与批量操作。\n",
+  "publishedAt": "2026-11-21T01:57:16.5487654Z",
   "artifacts": [
     {
       "platform": "darwin",
       "arch": "",
-      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.6/biglazycat-desktop-0.4.6-macos-universal-update.zip.001",
-      "filename": "biglazycat-desktop-0.4.6-macos-universal-update.zip",
-      "size": 87057434,
+      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.9/biglazycat-desktop-0.4.9-macos-universal-update.zip.001",
+      "filename": "biglazycat-desktop-0.4.9-macos-universal-update.zip",
+      "size": 88311013,
       "digestAlgo": "sha256",
-      "digest": "PYQtFgEFbDMX9bj2KojD3D+b01k9hyKMVWfFdI4A7e8=",
+      "digest": "Ftz5AEjj9QmS7Di4au2Vtl+lZNDkImAoe9KKOddZnro=",
       "signatureAlgo": "ed25519",
-      "signature": "aLSuOgaWNJRSyc2L0Zz3Sng6+viraXlYYMtQ+PuJuCaK0/n992/s/EGuAL6epqJokJjCGH+gLSCdSdTQCp27Cg=="
+      "signature": "VZKxbbwaLy5u6lEqzRy3mPX3xz9ZSFRMrZt+cfiszJ3yZc4MbbEUuLdJhzFiMvdiDQCZaW1hKB1pnQ7APyqHBw=="
     }
   ],
   "metadata": {
     "parts": [
       {
-        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.6/biglazycat-desktop-0.4.6-macos-universal-update.zip.001",
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.9/biglazycat-desktop-0.4.9-macos-universal-update.zip.001",
         "size": 67108864
       },
       {
-        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.6/biglazycat-desktop-0.4.6-macos-universal-update.zip.002",
-        "size": 19948570
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.9/biglazycat-desktop-0.4.9-macos-universal-update.zip.002",
+        "size": 21202149
       }
     ]
   }
