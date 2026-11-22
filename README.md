@@ -1,4 +1,4 @@
-# 大懒猫创作平台
+# 大懒猫写作
 
 提供 Windows、Linux deb / AppImage 和 macOS 版本。请在发布列表中选择对应平台的安装文件。
 
