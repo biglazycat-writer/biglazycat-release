@@ -1,32 +1,32 @@
 {
   "schemaVersion": 1,
-  "version": "0.4.9",
+  "version": "0.4.11",
   "channel": "stable",
-  "name": "大懒猫创作平台 0.4.9",
-  "notes": "大懒猫创作平台 0.4.9\n\n- 新增待办：收集箱、本周、今天三段式清单，支持步骤、备注、截止日期、提醒、重复与优先级。\n- 待办与文稿互通：文章信息可关联任务，编辑器选中文字可直接转为待办，番茄钟可对任务开始专注。\n- 快速添加支持「明天」「周三」「!!」「#标签」写法，任务行可拖拽排序。\n- 新增语音工坊插件：用本机引擎朗读文章，支持多音色与文章转播客。\n- 新增本地 OCR 与翻译插件：识别图片与 PDF 文字，保留段落位置并支持中英翻译。\n- 移动端新增底部导航与待办页，支持到点提醒与批量操作。\n",
-  "publishedAt": "2026-11-21T01:57:16.5487654Z",
+  "name": "大懒猫写作 0.4.11",
+  "notes": "大懒猫写作 0.4.11\n\n- 产品更名为「大懒猫写作」（英文 BigLazyCat Writer），启动屏、安装包与界面名称全部更新。\n- 原 PDF 阅读器内的「AI 阅读」侧栏已移除，PDF 问答统一由右侧 AI 助手承接；旧「笔记稿」会自动转换为新的页边笔记。\n- PDF 阅读器新增页边笔记：在页面右侧空白处随手记录笔记或疑问，自动保存，可整本一键显隐。\n- PDF 选中文字新增「下划线」标注样式，与高亮并列；「加入笔记」直接在原文旁创建并展开输入框。\n- 向 AI 提问 PDF 时可选择范围：选中内容、当前页、指定页范围或整份文档。\n- AI 回答中的页码引用可点击跳转到对应页面，引用会先与原文核对，对不上的标注「未核实」；回答可一键保存为页边笔记并定位来源页。\n- AI 修改文章状态、摘要、属性或标签前，逐篇显示「旧值 → 新值」对比；支持按目录批量整理文章属性与标签。\n- 文章编辑器新增「思维导图」面板（Ctrl+Shift+M）：按标题、段落、列表、表格等结构实时生成只读导图，支持缩放与平移。\n- 代码块升级为卡片：可选语法高亮语言或自动识别、一键复制、自动换行开关；纯文本代码块不再被错误着色。\n- 斜杠菜单（/）改版：常用插入项归入基础组并配彩色图标，键盘在多列网格中移动更顺手。\n- 打字导致上方内容变化时，下方内容平滑过渡，不再生硬跳动；专注模式默认按整段推进。\n- 连按 Ctrl+A 渐进扩大选区默认关闭，Ctrl+A 恢复为普通全选，可在设置中重新打开。\n- 插件可声明自己的图标，插件列表、侧栏入口与商店卡片都会显示。\n- 插件详情新增「使用入口」设置：自由勾选功能出现在编辑器工具栏、右键菜单或左侧面板，并可为每个功能单独设快捷键。\n- 激活页与只读模式购买提醒新增官网购买入口；激活服务迁移至官方域名。\n- 内置浏览器默认导航页新增「大懒猫写作官网」入口。\n- 修复部分外部 AI（MCP）客户端无法连接的问题；外部 AI 新增一批 PDF 阅读工具，基于 PDF 内容的回答更可靠。\n- 移动端同步更名：应用名、分享页脚与创作区 Git 署名改为「大懒猫写作」，「关于」页品牌名跟随界面语言显示。\n- 更新提示、编辑器主题名、AI 面板与授权提示等文案补齐英文翻译。\n",
+  "publishedAt": "2026-11-22T23:11:15.1557496Z",
   "artifacts": [
     {
       "platform": "darwin",
       "arch": "",
-      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.9/biglazycat-desktop-0.4.9-macos-universal-update.zip.001",
-      "filename": "biglazycat-desktop-0.4.9-macos-universal-update.zip",
-      "size": 88311013,
+      "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.11/biglazycat-desktop-0.4.11-macos-universal-update.zip.001",
+      "filename": "biglazycat-desktop-0.4.11-macos-universal-update.zip",
+      "size": 89214270,
       "digestAlgo": "sha256",
-      "digest": "Ftz5AEjj9QmS7Di4au2Vtl+lZNDkImAoe9KKOddZnro=",
+      "digest": "pCnkCqnyRBpwcICO1fn7wGm7C8hu/zKQgpD7QVmnmU0=",
       "signatureAlgo": "ed25519",
-      "signature": "VZKxbbwaLy5u6lEqzRy3mPX3xz9ZSFRMrZt+cfiszJ3yZc4MbbEUuLdJhzFiMvdiDQCZaW1hKB1pnQ7APyqHBw=="
+      "signature": "E0EnBuEZKoWGmKh+TYSX7eHRoqaMindgfro3TPZTaBSxq6pr6fvOJivG3IUVDbvd7MYoXnpnOIdMQ7VC6JoaAQ=="
     }
   ],
   "metadata": {
     "parts": [
       {
-        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.9/biglazycat-desktop-0.4.9-macos-universal-update.zip.001",
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.11/biglazycat-desktop-0.4.11-macos-universal-update.zip.001",
         "size": 67108864
       },
       {
-        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.9/biglazycat-desktop-0.4.9-macos-universal-update.zip.002",
-        "size": 21202149
+        "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.11/biglazycat-desktop-0.4.11-macos-universal-update.zip.002",
+        "size": 22105406
       }
     ]
   }
