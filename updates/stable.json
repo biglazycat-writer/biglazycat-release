@@ -4,25 +4,25 @@
   "channel": "stable",
   "name": "大懒猫写作 0.4.12",
   "notes": "大懒猫写作 0.4.12：优化产品细节",
-  "publishedAt": "2026-11-25T01:17:45.8209999Z",
+  "publishedAt": "2026-11-25T05:32:26.3023824Z",
   "artifacts": [
     {
       "platform": "windows",
       "arch": "amd64",
       "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.12/biglazycat-desktop-0.4.12-windows-amd64-update.zip.001",
       "filename": "biglazycat-desktop-0.4.12-windows-amd64-update.zip",
-      "size": 46233463,
+      "size": 46196240,
       "digestAlgo": "sha256",
-      "digest": "5Fcgajv+du5pIAboyzh7TjtGePsa6RyHZFnudgf3WmE=",
+      "digest": "lNqtwDWXa0DFFhjgILxEtRQKp8Nn0icsAY3GlGJkPPk=",
       "signatureAlgo": "ed25519",
-      "signature": "GQ8pN/dmHf20rJSGkyqUPqqHo6FNPBP0qJDxk3keiYlHDc0n4YdKXSqCYiHL23Cg9QT8A0XDYQekbdAXWF4pCg=="
+      "signature": "gdlWPpyANIGeTBWVgESvxIp6v/s18FFWnqhikJQ42mXFGDFXj1STChymlHzu8ydHxD1nfwH8AAM/puqDnQUNDg=="
     }
   ],
   "metadata": {
     "parts": [
       {
         "url": "https://github.com/biglazycat-writer/biglazycat-release/releases/download/v0.4.12/biglazycat-desktop-0.4.12-windows-amd64-update.zip.001",
-        "size": 46233463
+        "size": 46196240
       }
     ]
   }
